@@ -7,6 +7,32 @@
  */
 public class Drug
 {
+    
+    
+    
+    
+    
+    
+    
+    
+    // cc
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     // variables d'instance - remplacez l'exemple qui suit par le v™tre
     private int x;
     private String name; 
